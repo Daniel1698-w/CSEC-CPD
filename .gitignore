@@ -1,0 +1,15 @@
+# VS Code settings
+.vscode/
+
+# Competitive Programming Helper
+.cph/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
