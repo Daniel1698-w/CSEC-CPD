@@ -11,6 +11,4 @@ for _ in range(t):
         if di[val-i]:
             count+=di[val-i]
         di[val-i]+=1
-
     print(count)
-    
